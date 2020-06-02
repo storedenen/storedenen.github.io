@@ -1,0 +1,16 @@
+{
+"companyName": "Goblinus",
+"productName": "LGame",
+"productVersion": "0.1",
+"dataUrl": "LGame.data.unityweb",
+"wasmCodeUrl": "LGame.wasm.code.unityweb",
+"wasmFrameworkUrl": "LGame.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
